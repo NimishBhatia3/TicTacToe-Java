@@ -1,5 +1,7 @@
 # TicTacToe-Java
 A classic Tic Tac Toe game implemented in Java with JavaFX, featuring a sleek user interface, customizable board size, and score tracking for players.
+<img width="1280" alt="image" src="https://github.com/NimishBhatia3/TicTacToe-Java/assets/169317740/407f7b0b-5cc7-4924-9e78-2990803d7e23">
+
 
 ## Features
 
