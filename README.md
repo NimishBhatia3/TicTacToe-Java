@@ -12,6 +12,10 @@ A classic Tic Tac Toe game implemented in Java with JavaFX, featuring a sleek us
 - Score tracking for players
 - Play again feature for multiple rounds
 
+## Dependencies
+
+- JavaFX: The JavaFX library is required to run the program. Make sure you have it installed in your Java environment.
+
 ## Installing
 
 1. **Download:** Clone or download the repository from [here](https://github.com/NimishBhatia3/TicTacToe-Java).
